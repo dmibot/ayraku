@@ -1,7 +1,7 @@
 {
-    "name": "Shiro-md",
-    "version": "3.5.4",
-    "description": "Simple Bot WhatsApp",
+    "name": "Ayraku-Bot",
+    "version": "1.5.5",
+    "description": "My Private Bot WhatsApp",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -20,26 +20,26 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "ShiraoriBOT",
+        "Ayraku-Bot",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Paquito1923/elyasmd",
+    "homepage": "https://github.com/dmibots/ayraku",
     "author": {
-        "name": "Elyas"
+        "name": "Opux"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Paquito1923/elyasmd.git"
+        "url": "git+https://github.com/dmibots/ayraku.git"
     },
     "bugs": {
-        "url": "https://github.com/Paquito1923/elyasmd/issues"
+        "url": "https://github.com/dmibots/ayraku/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.0.0",
+        "@adiwajshing/baileys": "^4.1.0",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.24.0",
-        "@bochilteam/scraper": "^0.0.5",
+        "@bochilteam/scraper": "^2.0.0",
         "cfonts": "^2.10.0",
         "chalk": "^4.1.2",
         "cheerio": "^1.0.0-rc.10",
